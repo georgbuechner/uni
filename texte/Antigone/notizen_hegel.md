@@ -1,4 +1,4 @@
-# Hegel: Phänomenologie des Geistes
+jj Hegel: Phänomenologie des Geistes
 
 - Allgemein: Eine Entwicklung zur Freiheit.
 - Bewusstsein: Wahrnehmung der Welt
@@ -17,8 +17,8 @@ Kant?)
 
 ### b. Die Sittliche Handlung - _Das menschliche und göttliche Wissen die Schuld und das Schicksal_
 
-#### 1.
-Selbstbewußtsein noch nicht als einzelnes Individuum. Bisher nur als a)
+#### 1. Erst die Tat ist Individualität
+Selbstbewußtsein noch nicht als einzelnes Individuum. Bisher nur als a) 
 _allgemeiner Wille_ (vgl. Kreon) oder b) _Blut_ der Familie (vgl. Antigone). 
 Jeweils Antigone und Kreon sind nur Abbilder genau dieses Allgemeinen, welches
 sich zu verwirklichen versuchen. 
@@ -31,7 +31,7 @@ Toten.)
 → Solange keine Individualität, auch keine _Tat_
 
 Die Tat ist die Handlung der Individualität, ist _wirkliches Selbst_. Die bringt
-das "ruhige", "organisierte" der Sittlichen Welt ins Ungleichgewicht. 
+das "ruhige", "organisierte" der sittlichen Welt ins Ungleichgewicht. 
 Wo in der Sittlichkeit Familie und Staat nicht nur nebeneinander existieren
 sondern sich gegenseitig (zu) vervollständigen und bewähren (scheinen), zeigt
 die Individuelle Tat (Antigone beerdigt im Namen der Familien, gegen das Gesetz
@@ -209,4 +209,69 @@ Bewusstseins?"_
 - "... die Vollbringung spricht es selbst aus, daß, was _sittlich_ ist
   _wirklich_ sein müsse". _Wie passt das mit dem Zuvor gesagten zusammen, bzw.
   inwiefern wird dadurch die Ansicht verkehrt?_
+
+#### 8. Rückkehr zur Gesinnung.
+Die Anekennung der je anderen Position hebt die vollständige Identifizierung von Gesetz
+und Wesen auf → "Rückkehr zur Gesinnung".
+"Das Handelnde [gibt] seinen _Charakter_ [...] auf": _weil_ Gesetz und Wesen so eng
+verknüpft waren, bezeichnete Hegel das sittliche Bewußtsein als "wesentlich Charakter",
+wird dass sittliche Bewußtsein, zur bloßen Gesinnung, lößt sich nicht nur der
+Charakter, sondern auch "die _Wirklichkeit_ seines Selbsts auf".  
+Kreon, der Plötzliche Antigone annerkennt verliegt nicht nur seine Überzeugung, er _ist
+auch nicht mehr Kreon_, oder zumindest _ein anderer_.
+
+_Was zieht Hegel weitergehend für Schlüsse aus der "Rückkehr zur Gesinnung"?_
+
+
+- Substanz erscheint als das Pathos der Individualität.
+- Die Individualität belebt die Substanz (und steht dadurch über ihr)
+- Aber: die Substanz ist Pathos _und Charakter zugleich_.
+→ "Die sittliche Individualität ist unmittelbar und an sich eins mit diesem seinem
+Allgemeinen"
+→ Die Individualität hat ihre Existenz nur in dem Allgemeinen. 
+→ Die Individualität "vermag den Untergang, den die sittliche Macht durch die
+entgegengesetzte leidet, nicht zu überleben" (Antigones Freitod)
+
+_Hier erschient mit der Übergang zwischen, Pathos, Allgemeinem und Untergang nicht ganz
+klar. Wie ist das zu verstehen?_
+
+#### 9. Beidseitiger Untergang.
+
+Die Individualität weiß, dass die "entgegengesetzte Macht [...] _nicht mehr Übel erleidet,
+als sie zufügt_ ". _Wie ist das zu verstehen?_
+Vermutung: Auch Kreon musste nicht _mehr Übel erleiden, als er zugefügt hat_. Im Gegensatz
+zu Antigone, seinem Sohn und seiner Frau, lebt er noch. 
+
+"Die Bewegung der sittliche Mächte gegeneinander", also der fortwährende Gegensatz von
+menschlichem und göttlichem Gesetz, kann nur ein "_wahres Ende_" erreichen, falls "beide
+Seiten denselben Untergang erfahren." Sie müssen _denselben_ Untergang erfahren, weil
+beide von "gleicher Wesenheit" sind, keines von beidem ist dem anderen voraus um
+"_wesentlicheres_ Moment der Substanz zu sein". 
+
+Diese "gleiche Wesenheit", ihr "gleichgültige[s] Bestehen" und "selbstloses Sein" wird
+nur, oder schließlich in der _Tat_ aufgehoben, den dort sind sie nicht "selbstloses Sein",
+sondern "Selbstwesen" (Antigone ist nicht mehr Bild des Allgemeinen, bloße Verwirklichte
+Austrägerin des göttlichen Gesetz, sondern sie _ist_ Antigone) und als diese
+Individualität (?) sind sie "ein verschiedenes, was der Einheit des Selbst widerspricht".
+Hier manifestiert sich ebenso "ihre Rechtlosigkeit und [ihr] notwendiger Untergang".
+
+Jeder produziert selbst den Gegensatz (zwischen Gewusstem und Nicht-Gewusstem) und "setzt
+[...] sich in die Schuld, die ihn verzehrt."
+
+→ "Erst in der _gleichen Unterwerfung_ beider Seiten ist das absolute Recht vollbracht und
+die sittliche Substanz als die negative Macht, welche beide Verschlingt, oder das
+allmächtige und gerechte _Schicksal_ aufgetreten."
+- gleiche _Unterwerfung_, statt wie vorher gleicher _Untergang_.
+- Wenn beide Seiten sich gleichermaßen unterwerfen, ist das "absolute Recht vollbracht". 
+- Dies beschreibt Hegel auf zwei Weisen: 
+  1. die sittliche Substanz ist als die negative Macht aufgetreten, die beide sittlichen
+     Mächte "verschlingt". 
+  2. das allmächtige und gerechte Schicksal ist aufgetreten.
+
+_Was bedeutet "gleiche Unterwerfung", bzw. "gleichen Unterwerfung" worunter?_
+
+#### 10. 
+
+_Die frühere oder spätere Geburt hätte "als Unterschied der Natur" keine Bedeutung. Was ist
+hier mit "Unterschied der Natur" gemeint?_
 
