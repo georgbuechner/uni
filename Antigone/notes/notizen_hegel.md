@@ -270,8 +270,20 @@ allmächtige und gerechte _Schicksal_ aufgetreten."
 
 _Was bedeutet "gleiche Unterwerfung", bzw. "gleichen Unterwerfung" worunter?_
 
-#### 10. 
+#### 10. Die zwei Brüder
+Formaler Widerstreit: Sittlichkeit und Selbstbewusstsein gegen bewustlose Natur
+und Zufälligkeit 
+_Wie kann sich, aber dies "auf dem Boden der Sittlichkeit" abspielen, wenn die
+eine Seite als "bewustlose Natur" doch genau das Gegenteil von Sittlichkeit
+bildet. Außer es wird sich hier, was ich nicht annehme, auf die bewustlose Seite der
+Sittlichkeit (Gewohnheit, 2. Natur) bezogen?_
+
+Inhaltlicher Widerstreit: göttliches und menschliches Gesetz
 
 _Die frühere oder spätere Geburt hätte "als Unterschied der Natur" keine Bedeutung. Was ist
 hier mit "Unterschied der Natur" gemeint?_
 
+#### 11. Racht des göttlichen Gesetzes
+"Der Tote, dessen Recht gekränkt ist, weiß darum für seine Rache Werkzeug zu
+finden, welche von _gleicher Wirklichkeit und Gewalt_ mit der Macht, die ihn
+verletzt."
