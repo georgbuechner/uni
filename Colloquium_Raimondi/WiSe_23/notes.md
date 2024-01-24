@@ -258,3 +258,75 @@ bei beidem.
   lässt, während es gleich als Singuläres erweist 
 - Leben bei Lukács hier erstetzt durch Gegenstand? Dagegen: Kultur (=hinausgehen
   über typische Adorno Subjekt-Objekt Dichotomie)
+
+## Foucault 
+Khurana Kolloquium: 
+Selbstbestimmung schließt ein Moment der Herrschaft mit ein.
+Ästhetik nicht gegen die Selbstbestimmung, sondern als andere *Form* der
+Selbstbestimmung, die aber schließlich auch wieder einen (zwar anderes)
+Herrschaft-Knechtschaft Verhältnis mit einschließt.
+
+### Vorstellungen 
+
+#### Vorstellungen: Zur Genealogie der Ethik
+Three gene
+1. True -> Subjekt of knowledge 
+2. Power -> Subjekts of Unterwerfung
+3. Ethics -> Moral agents
+
+Codex VS Praktiken
+
+Laws in general domanes (Sex, marriage, adultary) stay the same, but the *ways 
+in which* they are prohibited have changed.
+- → Greek ↔ Chrinstian: Not so much the laws, but how the subjects see themselves
+and how the constitue themselves as morja subjects in relation to the laws. 
+- Chrinstian: Afterlive VS Greek: Ästhetik of Existance
+
+#### Vorstellungen: Der Gebrauch der Lüste 
+Sexualität als Erfahrung: Sexualität als eigene Erfahrung ↔ Sexualität durch die
+Macht 
+
+### Fragen 
+- Alternative: Regel (Selbstgesetzgebung) ↔ Form (Ästhetik)
+- Alternative: Neue Ethik ↔ Problematisierung
+- Was bedeutet der Begriff das Ästhetischen? 
+- Geht die Ästhetik der Existenz über die Selbstunterwerfung hinaus? 
+- Individualität und Allgemeinheit (Starker Fokus auf die Individualität, aber
+  Schönheit selbst bezogen auf die Allgemeinheit?)
+- Kollektive Praktiken des Ästhetischen (z.B. im Austromarxismus,
+  Demonstrationen als Formen der Ästhetik) 
+- a) Denken ↔ Selbstverständnis (regula, forma), 2. Denken ↔ Übungen
+- Ist die Ethik der Existenz nicht doch wieder bloß ein Hochhalten bestimmter
+  Tugenden (→ Idee des Schönen, braucht auch wieder Normative Setzungen)
+
+### Notizen 
+Individualität ↔ soziale Praktiken 
+Direkt Access to the universal? 
+- Techne: this shared praxis, is part of, but with out direct access to the
+  universal. Also indiviual possibilities: we develop in different directions.
+
+- Dass der Mensch bis in seine stumpfsten Praktiken hinein ein denkendes Wesen
+  ist.
+
+Technik gegen Autonomie: Technik als eine restriction, mit der ich aber
+spielen kann. (weniger anfällig für Autonomie?)
+
+Bürgerliche Lesart:
+Erst disziplinierung, und dann freiheit im stil
+
+Regel als Techne verwenden, dann wird die Regel zum Mittel, nicht als
+Selbstzweck zur Anwendung der Regel.
+
+Wenn wir nicht zur Ethik der Existenz zurückkommen können, weil sie in der
+Antike zu sehr mit Herrschaft verknüpft ist, wieso wird das nicht zu einem
+politischen Argument gemacht: schaffen wir die Herrschaft ab, dann lässt sich
+die Ethik der Existenz verwirklichen. (Vgl. auch Wilde: im Kapitalismus ist der
+Mensch hässlich, im Sozialismus ist der Mensch schön, als Sozialismus)
+- Einwand Khurana: Was, wenn andersherum die Ethik der Existenz inhaltlich
+  verquickt ist mit dieser Herrschaft? 
+- Gegeneinwand: sagt Foucault a) nicht und b) würde er uns dann ja nur Ideologie
+  präsentieren.
+
+Khurana: "Aber wenns hier einfach um Kontigenz geht, warum schreibt Foucault
+dann diese ganzen Bücher? Das reicht doch das einmal zu schreiben, da muss der
+doch nicht immer weiter machen"
